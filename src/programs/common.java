@@ -17,11 +17,11 @@ public class common
 		for(int i=0;i<s1.length();i++)
 		{
 			s1.charAt(i);
-			if(s1.charAt(i)==a && s1.charAt(i+1)==p && s1.charAt(i+2))
+			if(s1.charAt(i)=='a' && s1.charAt(i+1)=='p' && s1.charAt(i+2)=='p')
 			{
 			
 			}
-			elese
+			//else
 			
 		}
 		

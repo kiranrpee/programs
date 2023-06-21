@@ -22,20 +22,16 @@ public class mock
 		   String scnd = rev.substring(8, 10);
 		 
 		    String thrd = rev.substring(10,11);
-		   System.out.print(thrd);
+		  System.out.print(thrd+" ");
 		  
-		   
-		   for(int i=scnd.length()-1;i>=0;i--)
-		  {
-			  System.out.print(scnd.charAt(i));
-		  }
-		   // System.out.println(scnd);
+		  
+		   System.out.print(scnd+" ");
 		  
 		
 		  
 		  for(int i=fst.length()-1;i>=0;i--)
 		  {
-			 // System.out.print(fst.charAt(i));
+			 System.out.print(fst.charAt(i));
 			  
 			 
 		  
