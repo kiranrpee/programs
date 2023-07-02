@@ -11,7 +11,7 @@ public class t$m$$$rr$$$$$$w
 		{
 			 char data = s.charAt(i);
 			  position = s.indexOf(data);
-			  System.out.print(position);
+			  //System.out.print(position);
 			 
 			 if(data=='o')
 			 {
@@ -28,7 +28,8 @@ public class t$m$$$rr$$$$$$w
 				 System.out.print(data);
 			 }
 			 position=0;
-			 s.replace(data,'a');
+			 String s1 = s.
+			 s=s1;
 		}
 		
 	}
